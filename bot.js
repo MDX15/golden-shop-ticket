@@ -86,4 +86,4 @@ if (message.content.toLowerCase().startsWith(prefix + `close`)) {
 
 });
 
-client.login(NTQwNjQ3NjkyOTkzNTYwNjA2.DzT9Ug.JvcohTMRfO4ktSmYZIVUZ1GPFFM);
+client.login(token);
